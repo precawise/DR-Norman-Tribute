@@ -68,7 +68,8 @@ footer{
         padding-left: 95px;
         /* width:5%; */
         /* line-break:none; */
-        margin-inline-start:5px;
+        font-size: 10px;
+        padding-top:-10px;
         /* margin-left:-100px; */
     }
     #tribute-info{
