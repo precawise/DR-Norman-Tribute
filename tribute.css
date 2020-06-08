@@ -55,27 +55,23 @@ footer{
     #img-div{
         background-color: white;
         width: 100%;
-        height:600px;
+        height:450px;
         padding-top: 90px;
     }
     .img{
         width: 70%;
-        height: 550px;
+        height: 400px;
         margin-left: 15%;
     }
     #img-caption{
-        /* font-weight: bolder; */
         padding-left: 95px;
-        /* width:5%; */
-        /* line-break:none; */
         font-size: 10px;
         padding-top:-10px;
-        /* margin-left:-100px; */
     }
     #tribute-info{
         text-align: center;
         margin-top:50px;
-        margin-left:-20%;
+        margin-left:-5%;
     }
     #info{
         font-weight: bold;
